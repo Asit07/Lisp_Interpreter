@@ -1,4 +1,3 @@
-# BigDickPythonProject
-Lisp interpreter in Python
+# Lisp_Interpreter
 
-Lisp interpreter, written in Python by two Big Dick Boys!!
+Lisp interpreter, written in Python.
